@@ -1,14 +1,13 @@
-## Eitan Rosati Portfolio
-
+### About 
 I am Eitan, A Software Engineering student and a student at Yandex Practicum Data Science program.
 
-I have large experience in various packages in Python(Including Pandas, Sklearn, Matplotlib, Numpy and others). 
+I have a large experience in various packages in Python(Including Pandas, Sklearn, Matplotlib, Numpy and others).
+
+During my studies I did different projects of data science and data analysis.  
 
 In this days I look for a job, I am intrested in data related positions (like - Data Scientist, Data analyst and Data Engineer)  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Data Analysis projects
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
