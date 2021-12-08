@@ -1,5 +1,5 @@
 ## Eitan Rosati Portfolio
-
+<link rel="canonical" href="https://github.com/eitan-rosati">
 I am Eitan, A Software Engineering student and a student at Yandex Practicum Data Science program.
 
 I have large experience in various packages in Python(Including Pandas, Sklearn, Matplotlib, Numpy and others). 
