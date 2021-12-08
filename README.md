@@ -6,7 +6,7 @@ I have large experience in various packages in Python(Including Pandas, Sklearn,
 
 In this days I look for a job, I am intrested in data related positions (like - Data Scientist, Data analyst and Data Engineer)  
 
-You can use the [editor on GitHub](https://github.com/eitan-rosati/portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](https://github.com/eitan-rosati) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
